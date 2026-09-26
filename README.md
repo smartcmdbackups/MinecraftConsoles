@@ -1,4 +1,4 @@
-![Legacy Edition Banner](.github/banner.png)
+file:///run/user/1000/doc/MJSbW7YJF8eNJQbpMfweZA/cxzcxzc.png
 # MinecraftConsoles (Legacy Console Edition)
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/dH8AZWGcau)
