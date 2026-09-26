@@ -1,4 +1,6 @@
-file:///run/user/1000/doc/MJSbW7YJF8eNJQbpMfweZA/cxzcxzc.png
+<img width="1920" height="669" alt="image" src="https://github.com/user-attachments/assets/d44e908e-3e6c-469a-bdc1-1d42ef4e57d1" />
+
+
 # MinecraftConsoles (Legacy Console Edition)
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/dH8AZWGcau)
